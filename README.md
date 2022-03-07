@@ -1,6 +1,6 @@
 # Invader - A Python3/pygame based Space Invader Game
 
-Follow along and modified version of the tutorial from FreeCodeCamp https://www.youtube.com/watch?v=FfWpgLFMI7w
+Follow-along but modified version of the tutorial from FreeCodeCamp https://www.youtube.com/watch?v=FfWpgLFMI7w
 
 Please install pygame using this command:
 *pip install pygame*
